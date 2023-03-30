@@ -4,6 +4,6 @@ updating readme
 
 update before rebase
 
-global purpose 
 
-local purpose
+
+peace purpose
