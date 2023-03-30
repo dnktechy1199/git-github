@@ -3,3 +3,5 @@
 updating readme
 
 update before rebase
+
+global purpose 
